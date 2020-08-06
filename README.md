@@ -24,5 +24,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Some stats about me!!
 
-### https://github-readme-stats.vercel.app/api?username=sanket-tw&show_icons=true&hide_border=true
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket0612&show_icons=true&include_all_commits=true&theme=dark" alt="Sanket's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket0612&layout=compact&theme=dark" />
+</a>
